@@ -8,6 +8,8 @@ public class ArrayListCompare {
 
 	public static void main(String args[]){
 
+		
+		
 		//1. sort and compare equals
 		ArrayList<String> list1 = new ArrayList<String>(Arrays.asList("A", "B", "C", "D", "F"));
 		ArrayList<String> list2 = new ArrayList<String>(Arrays.asList("A", "B", "C", "D", "E"));
