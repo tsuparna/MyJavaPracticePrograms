@@ -31,8 +31,7 @@ public class HowManyWordsInGivenSentence {
 	}
 	
 	static int howManyWordsInSentence(String sentence){
-		int count =0;
-		
+		int count =0;	
 		String[] strArray = sentence.split(" ");
 		for(String str: strArray){
 			str = str.trim();
