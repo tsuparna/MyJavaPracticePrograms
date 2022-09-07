@@ -1,4 +1,4 @@
-package hakerrank.data.structures.programs;
+package hackerrank.data.structures.programs;
 
 import java.util.ArrayList;
 import java.util.List;
