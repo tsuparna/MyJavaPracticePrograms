@@ -6,5 +6,5 @@ public class PalindromeLinkedList {
 		// TODO Auto-generated method stub
 
 	}
-
+	
 }
